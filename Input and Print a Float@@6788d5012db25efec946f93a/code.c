@@ -5,10 +5,10 @@
 //     printf("You entered: %.2f",num);
 //     return 0;
 // }
-#include <stdio.h>
+#include<stdio.h>
 int main(){
     float a;
-    printf("You entered: %.2f",a);
     scanf("%f",&a);
+    printf("You entered: %.2f", a);
     return 0;
 }
