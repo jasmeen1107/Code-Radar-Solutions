@@ -13,6 +13,6 @@ int main(){
     float p;
     scanf("%f%f", &a,&b);
     product= a*b;
-    printf("Product: %f"; p);
+    printf("Product: %.2f"; p);
     return 0;
 }
