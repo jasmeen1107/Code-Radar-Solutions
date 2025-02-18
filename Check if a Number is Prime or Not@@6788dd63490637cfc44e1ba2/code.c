@@ -6,7 +6,7 @@ int main(){
           if (num%i==0){
             count++;
           }
-          i++
+          i++;
     }
     if(count==2){
         printf("Prime");
