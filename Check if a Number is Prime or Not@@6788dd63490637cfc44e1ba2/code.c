@@ -27,13 +27,12 @@ int main(){
     if(a%i==0){
         count++;
     }
-    i++;
+    i++;}
 if(count==2){
     printf("Prime");
 }
 else{
     printf("Not Prime");
 }
-   }
     return 0;
 }
